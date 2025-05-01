@@ -5,4 +5,5 @@ requests
 pandas
 plotly
 streamlit-option-menu
+scikit-learn
 
